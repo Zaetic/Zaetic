@@ -15,6 +15,7 @@
 
 #### Tecnologias ⚙
 
+<a><img src="https://img.shields.io/badge/Docker-Docker?logo=Docker&logoColor=white&style=for-the-badge&color=2496ed"></a>
 <a><img src="https://img.shields.io/badge/Mongodb-Mongodb?logo=Mongodb&logoColor=white&style=for-the-badge&color=green"></a>
 <a><img src="https://img.shields.io/badge/Git-Git?logo=Git&logoColor=white&style=for-the-badge&color=grey"></a>
 <a><img src="https://img.shields.io/badge/PostgreSQL-PostgreSQL?logo=PostgreSQL&logoColor=white&style=for-the-badge&color=64719c"></a>
